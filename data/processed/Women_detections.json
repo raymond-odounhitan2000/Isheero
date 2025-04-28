@@ -1,0 +1,5820 @@
+[
+    {
+        "image_path": "data/raw/Women/dress_0018.jpg",
+        "detections": [],
+        "original_size": [
+            1080,
+            732
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0905.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0067.jpg",
+        "detections": [],
+        "original_size": [
+            853,
+            848
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0532.jpg",
+        "detections": [],
+        "original_size": [
+            700,
+            700
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0663.jpg",
+        "detections": [],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0660.jpg",
+        "detections": [],
+        "original_size": [
+            700,
+            700
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0652.jpg",
+        "detections": [],
+        "original_size": [
+            1050,
+            1050
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0879.jpg",
+        "detections": [],
+        "original_size": [
+            262,
+            193
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0454.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    63.0,
+                    99.0,
+                    127.0,
+                    263.0
+                ],
+                "confidence": 0.517450213432312,
+                "class": 75,
+                "class_name": "vase"
+            }
+        ],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0119.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0838.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    253.0,
+                    -42.0,
+                    601.0,
+                    1151.0
+                ],
+                "confidence": 0.7709466218948364,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            1280,
+            1280
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0168.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0507.jpg",
+        "detections": [],
+        "original_size": [
+            350,
+            350
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0358.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0705.jpg",
+        "detections": [],
+        "original_size": [
+            900,
+            600
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0023.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0439.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0232.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0777.jpg",
+        "detections": [],
+        "original_size": [
+            500,
+            500
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0176.jpg",
+        "detections": [],
+        "original_size": [
+            259,
+            194
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0544.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    66.0,
+                    19.0,
+                    237.0,
+                    441.0
+                ],
+                "confidence": 0.7027947902679443,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            470,
+            300
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0108.jpg",
+        "detections": [],
+        "original_size": [
+            259,
+            194
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0156.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0355.jpg",
+        "detections": [],
+        "original_size": [
+            224,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0025.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0856.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0231.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0124.jpg",
+        "detections": [],
+        "original_size": [
+            259,
+            194
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0300.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0780.jpg",
+        "detections": [],
+        "original_size": [
+            533,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0221.jpg",
+        "detections": [],
+        "original_size": [
+            1023,
+            682
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0657.jpg",
+        "detections": [],
+        "original_size": [
+            700,
+            700
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0866.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0209.jpg",
+        "detections": [],
+        "original_size": [
+            251,
+            201
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0841.jpg",
+        "detections": [],
+        "original_size": [
+            104,
+            104
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0824.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    509.0,
+                    29.0,
+                    762.0,
+                    771.0
+                ],
+                "confidence": 0.819412350654602,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    21.0,
+                    -2.0,
+                    393.0,
+                    800.0
+                ],
+                "confidence": 0.7178376913070679,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0686.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0639.jpg",
+        "detections": [],
+        "original_size": [
+            2000,
+            2000
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0771.jpg",
+        "detections": [],
+        "original_size": [
+            282,
+            179
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0010.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    331.0,
+                    10.0,
+                    1124.0,
+                    916.0
+                ],
+                "confidence": 0.5570960640907288,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            1280,
+            1280
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0641.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    287.0,
+                    -1.0,
+                    468.0,
+                    668.0
+                ],
+                "confidence": 0.5308476090431213,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            768,
+            768
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0632.jpg",
+        "detections": [],
+        "original_size": [
+            679,
+            679
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0241.jpg",
+        "detections": [],
+        "original_size": [
+            247,
+            204
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0353.jpg",
+        "detections": [],
+        "original_size": [
+            168,
+            300
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0210.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0012.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    238.0,
+                    272.0,
+                    354.0,
+                    585.0
+                ],
+                "confidence": 0.6735873222351074,
+                "class": 27,
+                "class_name": "tie"
+            }
+        ],
+        "original_size": [
+            600,
+            600
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0845.jpg",
+        "detections": [],
+        "original_size": [
+            104,
+            104
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0183.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0117.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0693.jpg",
+        "detections": [],
+        "original_size": [
+            313,
+            161
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0192.jpg",
+        "detections": [],
+        "original_size": [
+            276,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0689.jpg",
+        "detections": [],
+        "original_size": [
+            272,
+            185
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0621.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    144.0,
+                    89.0,
+                    153.0,
+                    106.0
+                ],
+                "confidence": 0.8231635093688965,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0364.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0775.jpg",
+        "detections": [],
+        "original_size": [
+            279,
+            180
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0138.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0900.jpg",
+        "detections": [],
+        "original_size": [
+            386,
+            387
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0111.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_00666.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            496
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0608.jpg",
+        "detections": [],
+        "original_size": [
+            329,
+            230
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0129.jpg",
+        "detections": [],
+        "original_size": [
+            104,
+            104
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0531.jpg",
+        "detections": [],
+        "original_size": [
+            700,
+            700
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0186.jpg",
+        "detections": [],
+        "original_size": [
+            290,
+            174
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0438.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0912.jpg",
+        "detections": [],
+        "original_size": [
+            499,
+            489
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0316.jpg",
+        "detections": [],
+        "original_size": [
+            207,
+            94
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0230.jpg",
+        "detections": [],
+        "original_size": [
+            256,
+            197
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0505.jpg",
+        "detections": [],
+        "original_size": [
+            365,
+            236
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0600.jpg",
+        "detections": [],
+        "original_size": [
+            350,
+            350
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0901.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    218.0,
+                    42.0,
+                    399.0,
+                    523.0
+                ],
+                "confidence": 0.5547498464584351,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            642,
+            642
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0148.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0218.jpg",
+        "detections": [],
+        "original_size": [
+            259,
+            194
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0253.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0893.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    89.0,
+                    -10.0,
+                    173.0,
+                    220.0
+                ],
+                "confidence": 0.5172940492630005,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            251,
+            201
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0514.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0634.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    202.0,
+                    -98.0,
+                    470.0,
+                    583.0
+                ],
+                "confidence": 0.5000711679458618,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            679,
+            679
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0217.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0325.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0216.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0861.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    102.0,
+                    104.0,
+                    160.0,
+                    246.0
+                ],
+                "confidence": 0.6822854280471802,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    27.0,
+                    -5.0,
+                    120.0,
+                    216.0
+                ],
+                "confidence": 0.5639806389808655,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            247,
+            204
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0559.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0570.jpg",
+        "detections": [],
+        "original_size": [
+            350,
+            307
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0473.jpg",
+        "detections": [],
+        "original_size": [
+            257,
+            196
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0720.jpg",
+        "detections": [],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0026.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0143.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0821.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    -2.0,
+                    66.0,
+                    70.0,
+                    174.0
+                ],
+                "confidence": 0.5086486339569092,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            180,
+            200
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0444.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    70.0,
+                    -10.0,
+                    145.0,
+                    171.0
+                ],
+                "confidence": 0.5982497930526733,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0172.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0174.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    73.0,
+                    -2.0,
+                    181.0,
+                    199.0
+                ],
+                "confidence": 0.5147523880004883,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            196,
+            257
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0870.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            224
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0342.jpg",
+        "detections": [],
+        "original_size": [
+            266,
+            190
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0433.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0268.jpg",
+        "detections": [],
+        "original_size": [
+            318,
+            159
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0191.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0029.jpg",
+        "detections": [],
+        "original_size": [
+            255,
+            198
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0698.jpg",
+        "detections": [],
+        "original_size": [
+            264,
+            191
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0469.jpg",
+        "detections": [],
+        "original_size": [
+            278,
+            181
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0826.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0097.jpg",
+        "detections": [],
+        "original_size": [
+            104,
+            104
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0822.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0094.jpg",
+        "detections": [],
+        "original_size": [
+            104,
+            104
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0721.jpg",
+        "detections": [],
+        "original_size": [
+            700,
+            700
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0196.jpg",
+        "detections": [],
+        "original_size": [
+            276,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0586.jpg",
+        "detections": [],
+        "original_size": [
+            1500,
+            1500
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0201.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0692.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0739.jpg",
+        "detections": [],
+        "original_size": [
+            1080,
+            715
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0723.jpg",
+        "detections": [],
+        "original_size": [
+            757,
+            391
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0272.jpg",
+        "detections": [],
+        "original_size": [
+            300,
+            168
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0699.jpg",
+        "detections": [],
+        "original_size": [
+            183,
+            275
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0359.jpg",
+        "detections": [],
+        "original_size": [
+            274,
+            184
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0734.jpg",
+        "detections": [],
+        "original_size": [
+            866,
+            720
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0849.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0709.jpg",
+        "detections": [],
+        "original_size": [
+            700,
+            700
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0234.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0173.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    84.0,
+                    76.0,
+                    106.0,
+                    91.0
+                ],
+                "confidence": 0.8079102039337158,
+                "class": 54,
+                "class_name": "donut"
+            },
+            {
+                "bbox": [
+                    83.0,
+                    102.0,
+                    96.0,
+                    125.0
+                ],
+                "confidence": 0.7827398777008057,
+                "class": 54,
+                "class_name": "donut"
+            },
+            {
+                "bbox": [
+                    115.0,
+                    61.0,
+                    130.0,
+                    74.0
+                ],
+                "confidence": 0.7662193775177002,
+                "class": 54,
+                "class_name": "donut"
+            }
+        ],
+        "original_size": [
+            259,
+            194
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0049.jpg",
+        "detections": [],
+        "original_size": [
+            700,
+            700
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0685.jpg",
+        "detections": [],
+        "original_size": [
+            286,
+            176
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0471.jpg",
+        "detections": [],
+        "original_size": [
+            279,
+            180
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0324.jpg",
+        "detections": [],
+        "original_size": [
+            240,
+            210
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0021.jpg",
+        "detections": [],
+        "original_size": [
+            273,
+            185
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0162.jpg",
+        "detections": [],
+        "original_size": [
+            276,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0271.jpg",
+        "detections": [],
+        "original_size": [
+            252,
+            200
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0640.jpg",
+        "detections": [],
+        "original_size": [
+            768,
+            768
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0034.jpg",
+        "detections": [],
+        "original_size": [
+            1200,
+            969
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0836.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    586.0,
+                    115.0,
+                    810.0,
+                    853.0
+                ],
+                "confidence": 0.7602275013923645,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    24.0,
+                    -34.0,
+                    282.0,
+                    749.0
+                ],
+                "confidence": 0.5523459911346436,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    370.0,
+                    656.0,
+                    448.0,
+                    812.0
+                ],
+                "confidence": 0.5018937587738037,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            850,
+            850
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0107.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0180.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0123.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0609.jpg",
+        "detections": [],
+        "original_size": [
+            700,
+            700
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0126.jpg",
+        "detections": [],
+        "original_size": [
+            104,
+            104
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0455.jpg",
+        "detections": [],
+        "original_size": [
+            268,
+            188
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0848.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    56.0,
+                    1.0,
+                    93.0,
+                    108.0
+                ],
+                "confidence": 0.9689545035362244,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    57.0,
+                    113.0,
+                    98.0,
+                    219.0
+                ],
+                "confidence": 0.7791329622268677,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0601.jpg",
+        "detections": [],
+        "original_size": [
+            3371,
+            1669
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0687.jpg",
+        "detections": [],
+        "original_size": [
+            203,
+            96
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0213.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    79.0,
+                    68.0,
+                    150.0,
+                    230.0
+                ],
+                "confidence": 0.6643266677856445,
+                "class": 27,
+                "class_name": "tie"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0179.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0030.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0661.jpg",
+        "detections": [],
+        "original_size": [
+            1000,
+            1000
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0482.jpg",
+        "detections": [],
+        "original_size": [
+            293,
+            172
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0044.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0679.jpg",
+        "detections": [],
+        "original_size": [
+            5184,
+            3456
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0431.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0628.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    175.0,
+                    -61.0,
+                    516.0,
+                    537.0
+                ],
+                "confidence": 0.5508245825767517,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            679,
+            679
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0549.jpg",
+        "detections": [],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0041.jpg",
+        "detections": [],
+        "original_size": [
+            350,
+            350
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0658.jpg",
+        "detections": [],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0648.jpg",
+        "detections": [],
+        "original_size": [
+            952,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0215.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0521.jpg",
+        "detections": [],
+        "original_size": [
+            350,
+            350
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0793.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    253.0,
+                    -42.0,
+                    601.0,
+                    1151.0
+                ],
+                "confidence": 0.7709466218948364,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            1280,
+            1280
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0001.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0713.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    205.0,
+                    -125.0,
+                    484.0,
+                    613.0
+                ],
+                "confidence": 0.7613496780395508,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            700,
+            700
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0035.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0592.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0508.jpg",
+        "detections": [],
+        "original_size": [
+            350,
+            350
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0048.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    346.0,
+                    156.0,
+                    470.0,
+                    550.0
+                ],
+                "confidence": 0.8400187492370605,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    0.0,
+                    253.0,
+                    59.0,
+                    507.0
+                ],
+                "confidence": 0.8286963105201721,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    16.0,
+                    288.0,
+                    43.0,
+                    471.0
+                ],
+                "confidence": 0.7482016682624817,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    98.0,
+                    44.0,
+                    325.0,
+                    594.0
+                ],
+                "confidence": 0.5479336977005005,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            633,
+            474
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0378.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_842.jpg",
+        "detections": [],
+        "original_size": [
+            104,
+            104
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0090.jpg",
+        "detections": [],
+        "original_size": [
+            104,
+            104
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0130.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0160.jpg",
+        "detections": [],
+        "original_size": [
+            255,
+            198
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0137.jpg",
+        "detections": [],
+        "original_size": [
+            256,
+            197
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0714.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0864.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    4.0,
+                    -2.0,
+                    72.0,
+                    194.0
+                ],
+                "confidence": 0.7781307697296143,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    83.0,
+                    -4.0,
+                    145.0,
+                    197.0
+                ],
+                "confidence": 0.6786090731620789,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    152.0,
+                    -1.0,
+                    219.0,
+                    195.0
+                ],
+                "confidence": 0.5423683524131775,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0794.jpg",
+        "detections": [],
+        "original_size": [
+            1280,
+            1280
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0120.jpg",
+        "detections": [],
+        "original_size": [
+            249,
+            202
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0597.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0333.jpg",
+        "detections": [],
+        "original_size": [
+            319,
+            158
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0578.jpg",
+        "detections": [],
+        "original_size": [
+            300,
+            300
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0432.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0906.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    425.0,
+                    -4.0,
+                    630.0,
+                    649.0
+                ],
+                "confidence": 0.5021774768829346,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0869.jpg",
+        "detections": [],
+        "original_size": [
+            204,
+            247
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0800.jpg",
+        "detections": [],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0181.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0827.jpg",
+        "detections": [],
+        "original_size": [
+            600,
+            600
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0375.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0797.jpg",
+        "detections": [],
+        "original_size": [
+            522,
+            522
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0224.jpg",
+        "detections": [],
+        "original_size": [
+            700,
+            700
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0099.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0166.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0204.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0761.jpg",
+        "detections": [],
+        "original_size": [
+            276,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0843.jpg",
+        "detections": [],
+        "original_size": [
+            104,
+            104
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0635.jpg",
+        "detections": [],
+        "original_size": [
+            768,
+            768
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0345.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0637.jpg",
+        "detections": [],
+        "original_size": [
+            768,
+            768
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0889.jpg",
+        "detections": [],
+        "original_size": [
+            254,
+            198
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0880.jpg",
+        "detections": [],
+        "original_size": [
+            200,
+            97
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0568.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    408.0,
+                    73.0,
+                    769.0,
+                    751.0
+                ],
+                "confidence": 0.5707402229309082,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            1144,
+            1190
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0059.jpg",
+        "detections": [],
+        "original_size": [
+            272,
+            185
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0214.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0037.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0853.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0667.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    981.0,
+                    292.0,
+                    1240.0,
+                    477.0
+                ],
+                "confidence": 0.9197089076042175,
+                "class": 2,
+                "class_name": "car"
+            },
+            {
+                "bbox": [
+                    1054.0,
+                    342.0,
+                    1176.0,
+                    452.0
+                ],
+                "confidence": 0.7820504903793335,
+                "class": 2,
+                "class_name": "car"
+            },
+            {
+                "bbox": [
+                    367.0,
+                    -4.0,
+                    876.0,
+                    1471.0
+                ],
+                "confidence": 0.5764150619506836,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            1451,
+            1242
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0249.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0872.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0796.jpg",
+        "detections": [],
+        "original_size": [
+            289,
+            236
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0259.jpg",
+        "detections": [],
+        "original_size": [
+            266,
+            190
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0139.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0653.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    238.0,
+                    -81.0,
+                    495.0,
+                    584.0
+                ],
+                "confidence": 0.5742715001106262,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            700,
+            700
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0088.jpg",
+        "detections": [],
+        "original_size": [
+            104,
+            104
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0448.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0830.jpg",
+        "detections": [],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0314.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0136.jpg",
+        "detections": [],
+        "original_size": [
+            313,
+            161
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0865.jpg",
+        "detections": [],
+        "original_size": [
+            237,
+            212
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0134.jpg",
+        "detections": [],
+        "original_size": [
+            238,
+            211
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0806.jpg",
+        "detections": [],
+        "original_size": [
+            630,
+            1080
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0644.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    394.0,
+                    -15.0,
+                    639.0,
+                    888.0
+                ],
+                "confidence": 0.5586039423942566,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            1000,
+            1000
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0850.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0150.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0206.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    82.0,
+                    72.0,
+                    144.0,
+                    223.0
+                ],
+                "confidence": 0.6558912396430969,
+                "class": 27,
+                "class_name": "tie"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0050.jpg",
+        "detections": [],
+        "original_size": [
+            1390,
+            866
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0077.jpg",
+        "detections": [],
+        "original_size": [
+            1014,
+            570
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0452.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0722.jpg",
+        "detections": [],
+        "original_size": [
+            1050,
+            1050
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0060.jpg",
+        "detections": [],
+        "original_size": [
+            269,
+            188
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0868.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0202.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0293.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    8.0,
+                    43.0,
+                    18.0,
+                    56.0
+                ],
+                "confidence": 0.6331061124801636,
+                "class": 25,
+                "class_name": "umbrella"
+            }
+        ],
+        "original_size": [
+            241,
+            81
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0857.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    47.0,
+                    19.0,
+                    111.0,
+                    209.0
+                ],
+                "confidence": 0.6908619403839111,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0203.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0453.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0512.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    223.0,
+                    102.0,
+                    589.0,
+                    1196.0
+                ],
+                "confidence": 0.684055745601654,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            1280,
+            853
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0703.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0368.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0476.jpg",
+        "detections": [],
+        "original_size": [
+            285,
+            177
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0624.jpg",
+        "detections": [],
+        "original_size": [
+            1073,
+            540
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0738.jpg",
+        "detections": [],
+        "original_size": [
+            1080,
+            715
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0583.jpg",
+        "detections": [],
+        "original_size": [
+            700,
+            700
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0619.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0020.jpg",
+        "detections": [],
+        "original_size": [
+            501,
+            347
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0369.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0715.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    177.0,
+                    -32.0,
+                    436.0,
+                    665.0
+                ],
+                "confidence": 0.7834457159042358,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0810.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    24.0,
+                    -28.0,
+                    244.0,
+                    679.0
+                ],
+                "confidence": 0.8628895878791809,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    281.0,
+                    2.0,
+                    484.0,
+                    638.0
+                ],
+                "confidence": 0.848543107509613,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    516.0,
+                    -55.0,
+                    732.0,
+                    707.0
+                ],
+                "confidence": 0.8070085048675537,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            750,
+            750
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0593.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            497
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0626.jpg",
+        "detections": [],
+        "original_size": [
+            385,
+            385
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0360.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0472.jpg",
+        "detections": [],
+        "original_size": [
+            266,
+            189
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0233.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0349.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0655.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0743.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    236.0,
+                    -55.0,
+                    416.0,
+                    604.0
+                ],
+                "confidence": 0.5906075239181519,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0671.jpg",
+        "detections": [],
+        "original_size": [
+            3378,
+            2143
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0197.jpg",
+        "detections": [],
+        "original_size": [
+            274,
+            184
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0379.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0140.jpg",
+        "detections": [],
+        "original_size": [
+            251,
+            201
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0481.jpg",
+        "detections": [],
+        "original_size": [
+            280,
+            180
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0084.jpg",
+        "detections": [],
+        "original_size": [
+            104,
+            104
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0207.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0068.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0835.jpg",
+        "detections": [],
+        "original_size": [
+            555,
+            553
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0636.jpg",
+        "detections": [],
+        "original_size": [
+            2000,
+            2000
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0704.jpg",
+        "detections": [],
+        "original_size": [
+            266,
+            190
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0470.jpg",
+        "detections": [],
+        "original_size": [
+            268,
+            188
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0579.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    11.0,
+                    52.0,
+                    33.0,
+                    74.0
+                ],
+                "confidence": 0.6908397674560547,
+                "class": 2,
+                "class_name": "car"
+            },
+            {
+                "bbox": [
+                    0.0,
+                    49.0,
+                    49.0,
+                    75.0
+                ],
+                "confidence": 0.5432116389274597,
+                "class": 2,
+                "class_name": "car"
+            }
+        ],
+        "original_size": [
+            300,
+            266
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0128.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0212.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    70.0,
+                    -10.0,
+                    144.0,
+                    170.0
+                ],
+                "confidence": 0.5602257251739502,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0009.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    519.0,
+                    343.0,
+                    777.0,
+                    1303.0
+                ],
+                "confidence": 0.5079576373100281,
+                "class": 27,
+                "class_name": "tie"
+            }
+        ],
+        "original_size": [
+            1280,
+            1280
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0219.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0435.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0802.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    28.0,
+                    70.0,
+                    185.0,
+                    569.0
+                ],
+                "confidence": 0.9327545166015625,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    216.0,
+                    85.0,
+                    407.0,
+                    561.0
+                ],
+                "confidence": 0.7802494168281555,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    435.0,
+                    96.0,
+                    623.0,
+                    550.0
+                ],
+                "confidence": 0.6070250868797302,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            638,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0058.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0716.jpg",
+        "detections": [],
+        "original_size": [
+            700,
+            700
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0193.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0046.jpg",
+        "detections": [],
+        "original_size": [
+            1050,
+            1050
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0089.jpg",
+        "detections": [],
+        "original_size": [
+            248,
+            203
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0057.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0016.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    302.0,
+                    -9.0,
+                    514.0,
+                    712.0
+                ],
+                "confidence": 0.7586832642555237,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0772.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0859.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0019.jpg",
+        "detections": [],
+        "original_size": [
+            1000,
+            1000
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0082.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0519.jpg",
+        "detections": [],
+        "original_size": [
+            350,
+            350
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0175.jpg",
+        "detections": [],
+        "original_size": [
+            246,
+            205
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0328.jpg",
+        "detections": [],
+        "original_size": [
+            283,
+            178
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0569.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    349.0,
+                    2988.0,
+                    1014.0,
+                    4503.0
+                ],
+                "confidence": 0.663625955581665,
+                "class": 58,
+                "class_name": "pottedplant"
+            }
+        ],
+        "original_size": [
+            5184,
+            3456
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0291.jpg",
+        "detections": [],
+        "original_size": [
+            290,
+            174
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0436.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0907.jpg",
+        "detections": [],
+        "original_size": [
+            300,
+            300
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0106.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    79.0,
+                    68.0,
+                    150.0,
+                    230.0
+                ],
+                "confidence": 0.6643266677856445,
+                "class": 27,
+                "class_name": "tie"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0914.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    497.0,
+                    61.0,
+                    693.0,
+                    748.0
+                ],
+                "confidence": 0.7000583410263062,
+                "class": 27,
+                "class_name": "tie"
+            },
+            {
+                "bbox": [
+                    159.0,
+                    72.0,
+                    364.0,
+                    843.0
+                ],
+                "confidence": 0.5613014101982117,
+                "class": 27,
+                "class_name": "tie"
+            }
+        ],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0581.jpg",
+        "detections": [],
+        "original_size": [
+            770,
+            770
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0764.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0457.jpg",
+        "detections": [],
+        "original_size": [
+            259,
+            194
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0828.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    289.0,
+                    284.0,
+                    449.0,
+                    694.0
+                ],
+                "confidence": 0.8132100701332092,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    70.0,
+                    -8.0,
+                    353.0,
+                    593.0
+                ],
+                "confidence": 0.7092050313949585,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            688,
+            570
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0629.jpg",
+        "detections": [],
+        "original_size": [
+            385,
+            385
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0719.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0178.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0795.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    247.0,
+                    112.0,
+                    675.0,
+                    1185.0
+                ],
+                "confidence": 0.8512188196182251,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            1280,
+            1280
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0208.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0852.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0062.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    113.0,
+                    55.0,
+                    234.0,
+                    347.0
+                ],
+                "confidence": 0.522487998008728,
+                "class": 75,
+                "class_name": "vase"
+            }
+        ],
+        "original_size": [
+            350,
+            350
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0222.jpg",
+        "detections": [],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0456.jpg",
+        "detections": [],
+        "original_size": [
+            268,
+            188
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0190.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0038.jpg",
+        "detections": [],
+        "original_size": [
+            720,
+            720
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0553.jpg",
+        "detections": [],
+        "original_size": [
+            450,
+            400
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0002.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    447.0,
+                    272.0,
+                    477.0,
+                    330.0
+                ],
+                "confidence": 0.9407982230186462,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            846,
+            564
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0506.jpg",
+        "detections": [],
+        "original_size": [
+            633,
+            474
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0195.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0591.jpg",
+        "detections": [],
+        "original_size": [
+            700,
+            700
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0603.jpg",
+        "detections": [],
+        "original_size": [
+            2048,
+            1463
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0133.jpg",
+        "detections": [],
+        "original_size": [
+            259,
+            194
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0170.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0434.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0678.jpg",
+        "detections": [],
+        "original_size": [
+            1162,
+            945
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0017.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    111.0,
+                    66.0,
+                    362.0,
+                    650.0
+                ],
+                "confidence": 0.5212967395782471,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            720,
+            480
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0252.jpg",
+        "detections": [],
+        "original_size": [
+            313,
+            161
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0451.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0571.jpg",
+        "detections": [],
+        "original_size": [
+            1000,
+            771
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0898.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    232.0,
+                    41.0,
+                    413.0,
+                    597.0
+                ],
+                "confidence": 0.8351778984069824,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    437.0,
+                    21.0,
+                    617.0,
+                    526.0
+                ],
+                "confidence": 0.6427969932556152,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    12.0,
+                    -58.0,
+                    205.0,
+                    601.0
+                ],
+                "confidence": 0.5663793087005615,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0812.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    25.0,
+                    88.0,
+                    201.0,
+                    503.0
+                ],
+                "confidence": 0.641501247882843,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            586,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0223.jpg",
+        "detections": [],
+        "original_size": [
+            700,
+            700
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0682.jpg",
+        "detections": [],
+        "original_size": [
+            256,
+            197
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0182.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0844.jpg",
+        "detections": [],
+        "original_size": [
+            104,
+            104
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0450.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0560.jpg",
+        "detections": [],
+        "original_size": [
+            639,
+            480
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0732.jpg",
+        "detections": [],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0587.jpg",
+        "detections": [],
+        "original_size": [
+            350,
+            350
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0647.jpg",
+        "detections": [],
+        "original_size": [
+            606,
+            466
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0881.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0285.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0478.jpg",
+        "detections": [],
+        "original_size": [
+            280,
+            180
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0691.jpg",
+        "detections": [],
+        "original_size": [
+            231,
+            218
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0200.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0361.jpg",
+        "detections": [],
+        "original_size": [
+            307,
+            164
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0095.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0690.jpg",
+        "detections": [],
+        "original_size": [
+            274,
+            184
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0688.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0847.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0527.jpg",
+        "detections": [],
+        "original_size": [
+            700,
+            700
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0643.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    304.0,
+                    -8.0,
+                    491.0,
+                    679.0
+                ],
+                "confidence": 0.5192541480064392,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            768,
+            768
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0664.jpg",
+        "detections": [],
+        "original_size": [
+            960,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0670.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            425
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0165.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0755.jpg",
+        "detections": [],
+        "original_size": [
+            259,
+            195
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0584.jpg",
+        "detections": [],
+        "original_size": [
+            1050,
+            1050
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0135.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    66.0,
+                    -23.0,
+                    157.0,
+                    217.0
+                ],
+                "confidence": 0.5171687602996826,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0063.jpg",
+        "detections": [],
+        "original_size": [
+            319,
+            158
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0161.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0668.jpg",
+        "detections": [],
+        "original_size": [
+            599,
+            400
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0344.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0155.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0362.jpg",
+        "detections": [],
+        "original_size": [
+            251,
+            201
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0801.jpg",
+        "detections": [],
+        "original_size": [
+            350,
+            350
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0189.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0118.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0665.jpg",
+        "detections": [],
+        "original_size": [
+            415,
+            415
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0737.jpg",
+        "detections": [],
+        "original_size": [
+            1080,
+            720
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0343.jpg",
+        "detections": [],
+        "original_size": [
+            259,
+            195
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0225.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    285.0,
+                    64.0,
+                    499.0,
+                    734.0
+                ],
+                "confidence": 0.6360933184623718,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0913.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    181.0,
+                    54.0,
+                    274.0,
+                    361.0
+                ],
+                "confidence": 0.9006519317626953,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    85.0,
+                    125.0,
+                    163.0,
+                    331.0
+                ],
+                "confidence": 0.8854603171348572,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            350,
+            350
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0013.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    685.0,
+                    322.0,
+                    908.0,
+                    547.0
+                ],
+                "confidence": 0.8051621317863464,
+                "class": 26,
+                "class_name": "handbag"
+            },
+            {
+                "bbox": [
+                    406.0,
+                    -214.0,
+                    885.0,
+                    1103.0
+                ],
+                "confidence": 0.5346872806549072,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            1280,
+            1280
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0158.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    53.0,
+                    27.0,
+                    133.0,
+                    246.0
+                ],
+                "confidence": 0.5325123071670532,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0028.jpg",
+        "detections": [],
+        "original_size": [
+            760,
+            570
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0279.jpg",
+        "detections": [],
+        "original_size": [
+            238,
+            82
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0858.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    139.0,
+                    76.0,
+                    189.0,
+                    215.0
+                ],
+                "confidence": 0.5316111445426941,
+                "class": 26,
+                "class_name": "handbag"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0642.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    788.0,
+                    -43.0,
+                    1280.0,
+                    1791.0
+                ],
+                "confidence": 0.6133210062980652,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            2000,
+            2000
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0477.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0717.jpg",
+        "detections": [],
+        "original_size": [
+            700,
+            700
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0558.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0596.jpg",
+        "detections": [],
+        "original_size": [
+            500,
+            500
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0669.jpg",
+        "detections": [],
+        "original_size": [
+            571,
+            250
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0873.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0286.jpg",
+        "detections": [],
+        "original_size": [
+            264,
+            191
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0730.jpg",
+        "detections": [],
+        "original_size": [
+            400,
+            278
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0154.jpg",
+        "detections": [],
+        "original_size": [
+            300,
+            168
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0446.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0269.jpg",
+        "detections": [],
+        "original_size": [
+            248,
+            203
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0348.jpg",
+        "detections": [],
+        "original_size": [
+            183,
+            275
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0567.jpg",
+        "detections": [],
+        "original_size": [
+            317,
+            159
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0618.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0694.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0909.jpg",
+        "detections": [],
+        "original_size": [
+            299,
+            300
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0550.jpg",
+        "detections": [],
+        "original_size": [
+            450,
+            400
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0270.jpg",
+        "detections": [],
+        "original_size": [
+            316,
+            159
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0447.jpg",
+        "detections": [],
+        "original_size": [
+            285,
+            177
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0122.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0131.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0341.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    144.0,
+                    89.0,
+                    153.0,
+                    106.0
+                ],
+                "confidence": 0.8231635093688965,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0740.jpg",
+        "detections": [],
+        "original_size": [
+            1080,
+            715
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0874.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    131.0,
+                    142.0,
+                    168.0,
+                    278.0
+                ],
+                "confidence": 0.8821195363998413,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            289,
+            175
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0674.jpg",
+        "detections": [],
+        "original_size": [
+            5184,
+            2556
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0086.jpg",
+        "detections": [],
+        "original_size": [
+            202,
+            249
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0633.jpg",
+        "detections": [],
+        "original_size": [
+            500,
+            500
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0650.jpg",
+        "detections": [],
+        "original_size": [
+            700,
+            700
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0696.jpg",
+        "detections": [],
+        "original_size": [
+            250,
+            167
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0659.jpg",
+        "detections": [],
+        "original_size": [
+            700,
+            700
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0711.jpg",
+        "detections": [],
+        "original_size": [
+            350,
+            350
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0184.jpg",
+        "detections": [],
+        "original_size": [
+            281,
+            179
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0115.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0014.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    169.0,
+                    178.0,
+                    416.0,
+                    803.0
+                ],
+                "confidence": 0.6998394727706909,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            855,
+            570
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0911.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    209.0,
+                    413.0,
+                    346.0,
+                    772.0
+                ],
+                "confidence": 0.9419680833816528,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    207.0,
+                    14.0,
+                    340.0,
+                    391.0
+                ],
+                "confidence": 0.9230025410652161,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0656.jpg",
+        "detections": [],
+        "original_size": [
+            200,
+            200
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0683.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0045.jpg",
+        "detections": [],
+        "original_size": [
+            700,
+            700
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0707.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    244.0,
+                    29.0,
+                    664.0,
+                    970.0
+                ],
+                "confidence": 0.5539546012878418,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            1400,
+            933
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0163.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            224
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0799.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    -4.0,
+                    -89.0,
+                    172.0,
+                    751.0
+                ],
+                "confidence": 0.804329514503479,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    199.0,
+                    213.0,
+                    392.0,
+                    665.0
+                ],
+                "confidence": 0.722422182559967,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            768,
+            576
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0449.jpg",
+        "detections": [],
+        "original_size": [
+            276,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0554.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0851.jpg",
+        "detections": [],
+        "original_size": [
+            227,
+            222
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0370.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0883.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    57.0,
+                    76.0,
+                    107.0,
+                    216.0
+                ],
+                "confidence": 0.9023371934890747,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    118.0,
+                    35.0,
+                    178.0,
+                    232.0
+                ],
+                "confidence": 0.6509658098220825,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0816.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    263.0,
+                    39.0,
+                    399.0,
+                    255.0
+                ],
+                "confidence": 0.7188184857368469,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    125.0,
+                    -16.0,
+                    266.0,
+                    489.0
+                ],
+                "confidence": 0.6467361450195312,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            541,
+            564
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0908.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    354.0,
+                    40.0,
+                    447.0,
+                    339.0
+                ],
+                "confidence": 0.9823477864265442,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    15.0,
+                    -3.0,
+                    170.0,
+                    517.0
+                ],
+                "confidence": 0.7869473695755005,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    438.0,
+                    47.0,
+                    531.0,
+                    334.0
+                ],
+                "confidence": 0.7700349688529968,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    158.0,
+                    11.0,
+                    389.0,
+                    526.0
+                ],
+                "confidence": 0.7067956328392029,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            539,
+            540
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0440.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0798.jpg",
+        "detections": [],
+        "original_size": [
+            493,
+            500
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0878.jpg",
+        "detections": [],
+        "original_size": [
+            200,
+            252
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0092.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    81.0,
+                    82.0,
+                    103.0,
+                    102.0
+                ],
+                "confidence": 0.7603088021278381,
+                "class": 2,
+                "class_name": "car"
+            },
+            {
+                "bbox": [
+                    87.0,
+                    86.0,
+                    97.0,
+                    100.0
+                ],
+                "confidence": 0.517805814743042,
+                "class": 2,
+                "class_name": "car"
+            }
+        ],
+        "original_size": [
+            104,
+            104
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0061.jpg",
+        "detections": [],
+        "original_size": [
+            274,
+            184
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0479.jpg",
+        "detections": [],
+        "original_size": [
+            274,
+            184
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0837.jpg",
+        "detections": [],
+        "original_size": [
+            976,
+            996
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0437.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0565.jpg",
+        "detections": [],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0630.jpg",
+        "detections": [],
+        "original_size": [
+            522,
+            522
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0350.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0891.jpg",
+        "detections": [],
+        "original_size": [
+            251,
+            201
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0141.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0561.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    170.0,
+                    28.0,
+                    294.0,
+                    389.0
+                ],
+                "confidence": 0.9131858348846436,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            480,
+            480
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0480.jpg",
+        "detections": [],
+        "original_size": [
+            266,
+            190
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0854.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0605.jpg",
+        "detections": [],
+        "original_size": [
+            350,
+            350
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0112.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0125.jpg",
+        "detections": [],
+        "original_size": [
+            251,
+            201
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0443.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0741.jpg",
+        "detections": [],
+        "original_size": [
+            924,
+            612
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0897.jpg",
+        "detections": [],
+        "original_size": [
+            1000,
+            1000
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0708.jpg",
+        "detections": [],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0779.jpg",
+        "detections": [],
+        "original_size": [
+            957,
+            1300
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0121.jpg",
+        "detections": [],
+        "original_size": [
+            306,
+            165
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0260.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0153.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0520.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    236.0,
+                    -3.0,
+                    468.0,
+                    698.0
+                ],
+                "confidence": 0.6663830876350403,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            700,
+            700
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0171.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0043.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0825.jpg",
+        "detections": [],
+        "original_size": [
+            491,
+            500
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0602.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    106.0,
+                    3.0,
+                    244.0,
+                    345.0
+                ],
+                "confidence": 0.6067137122154236,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            350,
+            350
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0623.jpg",
+        "detections": [],
+        "original_size": [
+            1040,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0147.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0313.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    65.0,
+                    56.0,
+                    137.0,
+                    229.0
+                ],
+                "confidence": 0.7135164141654968,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    22.0,
+                    44.0,
+                    31.0,
+                    63.0
+                ],
+                "confidence": 0.7001259326934814,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            251,
+            201
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0787.jpg",
+        "detections": [],
+        "original_size": [
+            550,
+            550
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0188.jpg",
+        "detections": [],
+        "original_size": [
+            255,
+            198
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0474.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0194.jpg",
+        "detections": [],
+        "original_size": [
+            276,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0346.jpg",
+        "detections": [],
+        "original_size": [
+            251,
+            201
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0445.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0110.jpg",
+        "detections": [],
+        "original_size": [
+            313,
+            161
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0552.jpg",
+        "detections": [],
+        "original_size": [
+            450,
+            400
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0159.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0132.jpg",
+        "detections": [],
+        "original_size": [
+            268,
+            188
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0612.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0585.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    263.0,
+                    267.0,
+                    527.0,
+                    800.0
+                ],
+                "confidence": 0.6735955476760864,
+                "class": 27,
+                "class_name": "tie"
+            }
+        ],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0813.jpg",
+        "detections": [],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0354.jpg",
+        "detections": [],
+        "original_size": [
+            200,
+            252
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0442.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0024.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0566.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0814.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    502.0,
+                    -34.0,
+                    769.0,
+                    722.0
+                ],
+                "confidence": 0.5651584267616272,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0546.jpg",
+        "detections": [],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0011.jpg",
+        "detections": [],
+        "original_size": [
+            1280,
+            1280
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0564.jpg",
+        "detections": [],
+        "original_size": [
+            1127,
+            1000
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0103.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0729.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0811.jpg",
+        "detections": [],
+        "original_size": [
+            770,
+            1080
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0114.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0614.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0590.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0027.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0580.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0654.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0607.jpg",
+        "detections": [],
+        "original_size": [
+            300,
+            300
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0638.jpg",
+        "detections": [],
+        "original_size": [
+            768,
+            768
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0149.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0545.jpg",
+        "detections": [],
+        "original_size": [
+            900,
+            601
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0167.jpg",
+        "detections": [],
+        "original_size": [
+            211,
+            92
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0736.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    248.0,
+                    267.0,
+                    469.0,
+                    844.0
+                ],
+                "confidence": 0.5013434290885925,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            861,
+            648
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0205.jpg",
+        "detections": [],
+        "original_size": [
+            240,
+            210
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0725.jpg",
+        "detections": [],
+        "original_size": [
+            300,
+            300
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0070.jpg",
+        "detections": [],
+        "original_size": [
+            855,
+            570
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0315.jpg",
+        "detections": [],
+        "original_size": [
+            200,
+            97
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0229.jpg",
+        "detections": [],
+        "original_size": [
+            437,
+            325
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0718.jpg",
+        "detections": [],
+        "original_size": [
+            1920,
+            1920
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0365.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0651.jpg",
+        "detections": [],
+        "original_size": [
+            175,
+            175
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0441.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0104.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0697.jpg",
+        "detections": [],
+        "original_size": [
+            260,
+            194
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0677.jpg",
+        "detections": [],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0610.jpg",
+        "detections": [],
+        "original_size": [
+            350,
+            350
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0515.jpg",
+        "detections": [],
+        "original_size": [
+            199,
+            98
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0712.jpg",
+        "detections": [],
+        "original_size": [
+            400,
+            400
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0517.jpg",
+        "detections": [],
+        "original_size": [
+            350,
+            350
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0662.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    287.0,
+                    243.0,
+                    524.0,
+                    813.0
+                ],
+                "confidence": 0.7607089281082153,
+                "class": 27,
+                "class_name": "tie"
+            }
+        ],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0250.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0783.jpg",
+        "detections": [],
+        "original_size": [
+            960,
+            575
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0884.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    180.0,
+                    28.0,
+                    247.0,
+                    163.0
+                ],
+                "confidence": 0.8162112236022949,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    101.0,
+                    33.0,
+                    156.0,
+                    158.0
+                ],
+                "confidence": 0.6835242509841919,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            194,
+            259
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0516.jpg",
+        "detections": [],
+        "original_size": [
+            700,
+            700
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0885.jpg",
+        "detections": [],
+        "original_size": [
+            221,
+            228
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0340.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0863.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    115.0,
+                    29.0,
+                    155.0,
+                    190.0
+                ],
+                "confidence": 0.8983204364776611,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    69.0,
+                    30.0,
+                    108.0,
+                    188.0
+                ],
+                "confidence": 0.751361608505249,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    157.0,
+                    42.0,
+                    209.0,
+                    188.0
+                ],
+                "confidence": 0.6673440933227539,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    24.0,
+                    44.0,
+                    63.0,
+                    149.0
+                ],
+                "confidence": 0.6598674654960632,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0052.jpg",
+        "detections": [],
+        "original_size": [
+            381,
+            470
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0820.jpg",
+        "detections": [],
+        "original_size": [
+            560,
+            560
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0055.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    15.0,
+                    82.0,
+                    21.0,
+                    104.0
+                ],
+                "confidence": 0.5531796813011169,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    57.0,
+                    34.0,
+                    139.0,
+                    295.0
+                ],
+                "confidence": 0.5045775771141052,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            284,
+            178
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0817.jpg",
+        "detections": [],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0475.jpg",
+        "detections": [],
+        "original_size": [
+            276,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0625.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    206.0,
+                    -128.0,
+                    470.0,
+                    596.0
+                ],
+                "confidence": 0.6118288040161133,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            679,
+            679
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0622.jpg",
+        "detections": [],
+        "original_size": [
+            400,
+            400
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0042.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    233.0,
+                    -5.0,
+                    392.0,
+                    551.0
+                ],
+                "confidence": 0.5396637320518494,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0684.jpg",
+        "detections": [],
+        "original_size": [
+            315,
+            160
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0363.jpg",
+        "detections": [],
+        "original_size": [
+            299,
+            169
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0871.jpg",
+        "detections": [],
+        "original_size": [
+            183,
+            275
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0620.jpg",
+        "detections": [],
+        "original_size": [
+            266,
+            190
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0582.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    652.0,
+                    717.0,
+                    814.0,
+                    1114.0
+                ],
+                "confidence": 0.6521598100662231,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            1600,
+            1004
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0031.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    127.0,
+                    48.0,
+                    307.0,
+                    556.0
+                ],
+                "confidence": 0.5202536582946777,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            600,
+            429
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0631.jpg",
+        "detections": [],
+        "original_size": [
+            679,
+            679
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0555.jpg",
+        "detections": [],
+        "original_size": [
+            837,
+            600
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0742.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    241.0,
+                    -44.0,
+                    410.0,
+                    590.0
+                ],
+                "confidence": 0.5891529321670532,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0710.jpg",
+        "detections": [],
+        "original_size": [
+            700,
+            700
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0066.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0724.jpg",
+        "detections": [],
+        "original_size": [
+            1000,
+            799
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0336.jpg",
+        "detections": [],
+        "original_size": [
+            311,
+            162
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0005.jpg",
+        "detections": [],
+        "original_size": [
+            1080,
+            582
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0572.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            150
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0904.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    386.0,
+                    104.0,
+                    529.0,
+                    635.0
+                ],
+                "confidence": 0.5857768654823303,
+                "class": 27,
+                "class_name": "tie"
+            },
+            {
+                "bbox": [
+                    58.0,
+                    10.0,
+                    381.0,
+                    224.0
+                ],
+                "confidence": 0.5006494522094727,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0882.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    73.0,
+                    -15.0,
+                    145.0,
+                    244.0
+                ],
+                "confidence": 0.8971937894821167,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    1.0,
+                    2.0,
+                    74.0,
+                    198.0
+                ],
+                "confidence": 0.8956930041313171,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    153.0,
+                    -11.0,
+                    215.0,
+                    210.0
+                ],
+                "confidence": 0.6360940337181091,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            230,
+            220
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0778.jpg",
+        "detections": [],
+        "original_size": [
+            900,
+            600
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0557.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0727.jpg",
+        "detections": [],
+        "original_size": [
+            1000,
+            799
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0187.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0595.jpg",
+        "detections": [],
+        "original_size": [
+            664,
+            410
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0198.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0910.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0760.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Women/dress_0803.jpg",
+        "detections": [],
+        "original_size": [
+            1220,
+            1242
+        ]
+    }
+]

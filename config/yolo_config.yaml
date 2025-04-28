@@ -1,0 +1,38 @@
+# Configuration de l'entraînement
+learning_rate: 0.001
+batch_size: 16
+num_epochs: 50
+image_size: 640
+
+# Configuration du modèle
+model:
+  backbone: darknet53
+  num_classes: 80  # À adapter selon vos classes
+  anchors:
+    - [10, 13, 16, 30, 33, 23]
+    - [30, 61, 62, 45, 59, 119]
+    - [116, 90, 156, 198, 373, 326]
+
+# Configuration des données
+data:
+  train_path: data/yolo/train
+  val_path: data/yolo/val
+  classes_path: data/yolo/classes.txt
+
+# Configuration de l'optimiseur
+optimizer:
+  type: Adam
+  weight_decay: 0.0005
+  momentum: 0.9
+
+# Configuration du learning rate scheduler
+scheduler:
+  type: CosineAnnealingLR
+  T_max: 50
+  eta_min: 0.00001
+
+# Configuration de la sauvegarde
+save:
+  checkpoint_dir: checkpoints
+  save_interval: 5
+  best_model_path: best_model.pth 

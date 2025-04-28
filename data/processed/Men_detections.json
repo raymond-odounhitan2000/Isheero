@@ -1,0 +1,4113 @@
+[
+    {
+        "image_path": "data/raw/Men/dress_0320.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0486.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    63.0,
+                    -20.0,
+                    147.0,
+                    246.0
+                ],
+                "confidence": 0.5864633321762085,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            231,
+            218
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0319.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    128.0,
+                    62.0,
+                    163.0,
+                    109.0
+                ],
+                "confidence": 0.9236370921134949,
+                "class": 2,
+                "class_name": "car"
+            },
+            {
+                "bbox": [
+                    138.0,
+                    70.0,
+                    153.0,
+                    104.0
+                ],
+                "confidence": 0.7609924674034119,
+                "class": 2,
+                "class_name": "car"
+            }
+        ],
+        "original_size": [
+            308,
+            164
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0266.jpg",
+        "detections": [],
+        "original_size": [
+            284,
+            178
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0274.jpg",
+        "detections": [],
+        "original_size": [
+            292,
+            172
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_246.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0604.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            360
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0226.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    160.0,
+                    59.0,
+                    423.0,
+                    807.0
+                ],
+                "confidence": 0.555659294128418,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            760,
+            570
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0547.jpg",
+        "detections": [],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0352.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0422.jpg",
+        "detections": [],
+        "original_size": [
+            264,
+            191
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0273.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    48.0,
+                    -2.0,
+                    132.0,
+                    331.0
+                ],
+                "confidence": 0.6182577013969421,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            288,
+            175
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0419.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0588.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0754.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    72.0,
+                    -5.0,
+                    155.0,
+                    229.0
+                ],
+                "confidence": 0.7323418259620667,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0409.jpg",
+        "detections": [],
+        "original_size": [
+            244,
+            206
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0081.jpg",
+        "detections": [],
+        "original_size": [
+            400,
+            300
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0615.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    50.0,
+                    -11.0,
+                    189.0,
+                    400.0
+                ],
+                "confidence": 0.5390174984931946,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            386,
+            236
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0033.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0786.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0485.jpg",
+        "detections": [],
+        "original_size": [
+            285,
+            177
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0672.jpg",
+        "detections": [],
+        "original_size": [
+            1300,
+            867
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0888.jpg",
+        "detections": [],
+        "original_size": [
+            269,
+            188
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0410.jpg",
+        "detections": [],
+        "original_size": [
+            230,
+            219
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0543.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    222.0,
+                    21.0,
+                    721.0,
+                    928.0
+                ],
+                "confidence": 0.5980339646339417,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            960,
+            960
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0899.jpg",
+        "detections": [],
+        "original_size": [
+            362,
+            421
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0101.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    14.0,
+                    12.0,
+                    22.0,
+                    18.0
+                ],
+                "confidence": 0.6195352077484131,
+                "class": 29,
+                "class_name": "frisbee"
+            }
+        ],
+        "original_size": [
+            280,
+            180
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0071.jpg",
+        "detections": [],
+        "original_size": [
+            716,
+            570
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0039.jpg",
+        "detections": [],
+        "original_size": [
+            550,
+            364
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0494.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    89.0,
+                    -9.0,
+                    159.0,
+                    196.0
+                ],
+                "confidence": 0.7927280068397522,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            215,
+            235
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0518.jpg",
+        "detections": [],
+        "original_size": [
+            350,
+            350
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0421.jpg",
+        "detections": [],
+        "original_size": [
+            235,
+            215
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0426.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    64.0,
+                    -13.0,
+                    145.0,
+                    284.0
+                ],
+                "confidence": 0.6594706773757935,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            272,
+            185
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0284.jpg",
+        "detections": [],
+        "original_size": [
+            250,
+            202
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0245.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    58.0,
+                    2.0,
+                    135.0,
+                    291.0
+                ],
+                "confidence": 0.7326863408088684,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            259,
+            194
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0227.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    181.0,
+                    27.0,
+                    503.0,
+                    899.0
+                ],
+                "confidence": 0.9119628071784973,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            1080,
+            720
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0317.jpg",
+        "detections": [],
+        "original_size": [
+            258,
+            195
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0247.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    27.0,
+                    20.0,
+                    126.0,
+                    259.0
+                ],
+                "confidence": 0.5711275935173035,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            318,
+            159
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0402.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0392.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0302.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    20.0,
+                    33.0,
+                    102.0,
+                    256.0
+                ],
+                "confidence": 0.6158353686332703,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            299,
+            168
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0465.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0589.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0430.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    48.0,
+                    1.0,
+                    174.0,
+                    224.0
+                ],
+                "confidence": 0.5069235563278198,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0832.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    9.0,
+                    -13.0,
+                    71.0,
+                    248.0
+                ],
+                "confidence": 0.6196399331092834,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    148.0,
+                    -31.0,
+                    227.0,
+                    229.0
+                ],
+                "confidence": 0.5223348736763,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            232,
+            236
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0765.jpg",
+        "detections": [],
+        "original_size": [
+            266,
+            190
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0807.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    69.0,
+                    113.0,
+                    328.0,
+                    718.0
+                ],
+                "confidence": 0.7969426512718201,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            733,
+            570
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0127.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0463.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0356.jpg",
+        "detections": [],
+        "original_size": [
+            261,
+            193
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0417.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0809.jpg",
+        "detections": [],
+        "original_size": [
+            415,
+            415
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0116.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    80.0,
+                    7.0,
+                    153.0,
+                    218.0
+                ],
+                "confidence": 0.9068448543548584,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            225,
+            224
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0096.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0488.jpg",
+        "detections": [],
+        "original_size": [
+            242,
+            209
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0307.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0522.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    249.0,
+                    -40.0,
+                    571.0,
+                    1109.0
+                ],
+                "confidence": 0.6072254776954651,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            1066,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0576.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    138.0,
+                    77.0,
+                    151.0,
+                    100.0
+                ],
+                "confidence": 0.6656620502471924,
+                "class": 2,
+                "class_name": "car"
+            }
+        ],
+        "original_size": [
+            225,
+            160
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0768.jpg",
+        "detections": [],
+        "original_size": [
+            299,
+            168
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0511.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    122.0,
+                    5.0,
+                    428.0,
+                    525.0
+                ],
+                "confidence": 0.5148559212684631,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            530,
+            555
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0541.jpg",
+        "detections": [],
+        "original_size": [
+            1400,
+            1000
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0818.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    57.0,
+                    136.0,
+                    526.0,
+                    1481.0
+                ],
+                "confidence": 0.7283157110214233,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            1600,
+            1100
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0763.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    48.0,
+                    -6.0,
+                    142.0,
+                    262.0
+                ],
+                "confidence": 0.5112754702568054,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            258,
+            195
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0776.jpg",
+        "detections": [],
+        "original_size": [
+            655,
+            468
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0752.jpg",
+        "detections": [],
+        "original_size": [
+            251,
+            201
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0539.jpg",
+        "detections": [],
+        "original_size": [
+            2167,
+            1548
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0412.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    64.0,
+                    -5.0,
+                    198.0,
+                    261.0
+                ],
+                "confidence": 0.5035951733589172,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0321.jpg",
+        "detections": [],
+        "original_size": [
+            200,
+            252
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0562.jpg",
+        "detections": [],
+        "original_size": [
+            600,
+            600
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0299.jpg",
+        "detections": [],
+        "original_size": [
+            279,
+            180
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0774.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0220.jpg",
+        "detections": [],
+        "original_size": [
+            266,
+            190
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0427.jpg",
+        "detections": [],
+        "original_size": [
+            256,
+            197
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0287.jpg",
+        "detections": [],
+        "original_size": [
+            200,
+            252
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0397.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    28.0,
+                    -19.0,
+                    131.0,
+                    293.0
+                ],
+                "confidence": 0.5682989954948425,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    117.0,
+                    139.0,
+                    139.0,
+                    232.0
+                ],
+                "confidence": 0.5264180302619934,
+                "class": 26,
+                "class_name": "handbag"
+            }
+        ],
+        "original_size": [
+            277,
+            182
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0294.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0645.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    192.0,
+                    486.0,
+                    270.0,
+                    681.0
+                ],
+                "confidence": 0.7264475226402283,
+                "class": 36,
+                "class_name": "skateboard"
+            },
+            {
+                "bbox": [
+                    215.0,
+                    502.0,
+                    244.0,
+                    669.0
+                ],
+                "confidence": 0.7062654495239258,
+                "class": 36,
+                "class_name": "skateboard"
+            },
+            {
+                "bbox": [
+                    127.0,
+                    -14.0,
+                    371.0,
+                    620.0
+                ],
+                "confidence": 0.6595197916030884,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            711,
+            474
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0535.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    377.0,
+                    11.0,
+                    856.0,
+                    1179.0
+                ],
+                "confidence": 0.7515718340873718,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            1200,
+            1200
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0510.jpg",
+        "detections": [],
+        "original_size": [
+            552,
+            533
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0497.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0758.jpg",
+        "detections": [],
+        "original_size": [
+            251,
+            201
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0526.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    325.0,
+                    -94.0,
+                    735.0,
+                    991.0
+                ],
+                "confidence": 0.6688926815986633,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            1050,
+            1050
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0309.jpg",
+        "detections": [],
+        "original_size": [
+            309,
+            163
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0536.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    231.0,
+                    21.0,
+                    543.0,
+                    776.0
+                ],
+                "confidence": 0.530336856842041,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0896.jpg",
+        "detections": [],
+        "original_size": [
+            256,
+            197
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0414.jpg",
+        "detections": [],
+        "original_size": [
+            246,
+            205
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0322.jpg",
+        "detections": [],
+        "original_size": [
+            250,
+            202
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0372.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    53.0,
+                    3.0,
+                    179.0,
+                    187.0
+                ],
+                "confidence": 0.5684581398963928,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0277.jpg",
+        "detections": [],
+        "original_size": [
+            246,
+            205
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0537.jpg",
+        "detections": [],
+        "original_size": [
+            952,
+            683
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0083.jpg",
+        "detections": [],
+        "original_size": [
+            104,
+            104
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0681.jpg",
+        "detections": [],
+        "original_size": [
+            251,
+            201
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0418.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0408.jpg",
+        "detections": [],
+        "original_size": [
+            224,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0146.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0556.jpg",
+        "detections": [],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0366.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0751.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0374.jpg",
+        "detections": [],
+        "original_size": [
+            264,
+            191
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0264.jpg",
+        "detections": [],
+        "original_size": [
+            306,
+            165
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0280.jpg",
+        "detections": [],
+        "original_size": [
+            220,
+            220
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0680.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    140.0,
+                    -16.0,
+                    401.0,
+                    803.0
+                ],
+                "confidence": 0.7429753541946411,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    425.0,
+                    425.0,
+                    533.0,
+                    754.0
+                ],
+                "confidence": 0.7170717120170593,
+                "class": 75,
+                "class_name": "vase"
+            }
+        ],
+        "original_size": [
+            900,
+            600
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0425.jpg",
+        "detections": [],
+        "original_size": [
+            256,
+            197
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0007.jpg",
+        "detections": [],
+        "original_size": [
+            900,
+            600
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0304.jpg",
+        "detections": [],
+        "original_size": [
+            251,
+            201
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0306.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    129.0,
+                    146.0,
+                    153.0,
+                    169.0
+                ],
+                "confidence": 0.5011113882064819,
+                "class": 35,
+                "class_name": "baseball glove"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0542.jpg",
+        "detections": [],
+        "original_size": [
+            1400,
+            1000
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0065.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    277.0,
+                    -14.0,
+                    498.0,
+                    593.0
+                ],
+                "confidence": 0.6306572556495667,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0040.jpg",
+        "detections": [],
+        "original_size": [
+            2100,
+            1400
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0493.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    49.0,
+                    -12.0,
+                    142.0,
+                    230.0
+                ],
+                "confidence": 0.5781158804893494,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            255,
+            198
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0255.jpg",
+        "detections": [],
+        "original_size": [
+            287,
+            175
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0003.jpg",
+        "detections": [],
+        "original_size": [
+            439,
+            470
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0100.jpg",
+        "detections": [],
+        "original_size": [
+            252,
+            200
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0840.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    461.0,
+                    -51.0,
+                    723.0,
+                    717.0
+                ],
+                "confidence": 0.8732132315635681,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    46.0,
+                    35.0,
+                    382.0,
+                    868.0
+                ],
+                "confidence": 0.6637192964553833,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            784,
+            794
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0424.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0748.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    35.0,
+                    0.0,
+                    126.0,
+                    273.0
+                ],
+                "confidence": 0.5205691456794739,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0240.jpg",
+        "detections": [],
+        "original_size": [
+            277,
+            182
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0466.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    76.0,
+                    1.0,
+                    148.0,
+                    159.0
+                ],
+                "confidence": 0.7058533430099487,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0877.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0468.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0391.jpg",
+        "detections": [],
+        "original_size": [
+            256,
+            197
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0395.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    63.0,
+                    197.0,
+                    69.0,
+                    214.0
+                ],
+                "confidence": 0.7059308886528015,
+                "class": 39,
+                "class_name": "bottle"
+            }
+        ],
+        "original_size": [
+            250,
+            202
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0261.jpg",
+        "detections": [],
+        "original_size": [
+            305,
+            165
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0113.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    91.0,
+                    153.0,
+                    133.0,
+                    206.0
+                ],
+                "confidence": 0.5502496957778931,
+                "class": 26,
+                "class_name": "handbag"
+            },
+            {
+                "bbox": [
+                    53.0,
+                    20.0,
+                    128.0,
+                    262.0
+                ],
+                "confidence": 0.5366266965866089,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            283,
+            178
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0283.jpg",
+        "detections": [],
+        "original_size": [
+            200,
+            252
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0015.jpg",
+        "detections": [],
+        "original_size": [
+            900,
+            600
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0376.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0819.jpg",
+        "detections": [],
+        "original_size": [
+            602,
+            318
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0404.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0744.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0815.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    641.0,
+                    14.0,
+                    1382.0,
+                    2161.0
+                ],
+                "confidence": 0.65946364402771,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            2175,
+            1514
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0047.jpg",
+        "detections": [],
+        "original_size": [
+            3888,
+            2778
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0646.jpg",
+        "detections": [],
+        "original_size": [
+            460,
+            220
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0530.jpg",
+        "detections": [],
+        "original_size": [
+            350,
+            350
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0289.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    36.0,
+                    -8.0,
+                    107.0,
+                    252.0
+                ],
+                "confidence": 0.7101279497146606,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            246,
+            205
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0773.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0627.jpg",
+        "detections": [],
+        "original_size": [
+            1000,
+            563
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0745.jpg",
+        "detections": [],
+        "original_size": [
+            276,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0524.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    111.0,
+                    -10.0,
+                    243.0,
+                    356.0
+                ],
+                "confidence": 0.8071599006652832,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            350,
+            350
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0509.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    247.0,
+                    76.0,
+                    627.0,
+                    1224.0
+                ],
+                "confidence": 0.7927877902984619,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            1280,
+            853
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0248.jpg",
+        "detections": [],
+        "original_size": [
+            237,
+            213
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0295.jpg",
+        "detections": [],
+        "original_size": [
+            299,
+            168
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0756.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0769.jpg",
+        "detections": [],
+        "original_size": [
+            259,
+            194
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0311.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            127
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0700.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0483.jpg",
+        "detections": [],
+        "original_size": [
+            267,
+            189
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0235.jpg",
+        "detections": [],
+        "original_size": [
+            300,
+            168
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0540.jpg",
+        "detections": [],
+        "original_size": [
+            1321,
+            943
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0152.jpg",
+        "detections": [],
+        "original_size": [
+            104,
+            131
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0617.jpg",
+        "detections": [],
+        "original_size": [
+            219,
+            230
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0157.jpg",
+        "detections": [],
+        "original_size": [
+            259,
+            194
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0072.jpg",
+        "detections": [],
+        "original_size": [
+            919,
+            570
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0405.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    48.0,
+                    -9.0,
+                    132.0,
+                    283.0
+                ],
+                "confidence": 0.7623211145401001,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0239.jpg",
+        "detections": [],
+        "original_size": [
+            236,
+            214
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0339.jpg",
+        "detections": [],
+        "original_size": [
+            219,
+            230
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0298.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0399.jpg",
+        "detections": [],
+        "original_size": [
+            267,
+            189
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0004.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    177.0,
+                    -119.0,
+                    453.0,
+                    896.0
+                ],
+                "confidence": 0.7713048458099365,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            907,
+            563
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0460.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0242.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    56.0,
+                    1.0,
+                    128.0,
+                    272.0
+                ],
+                "confidence": 0.7812760472297668,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0770.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0332.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0499.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0338.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0098.jpg",
+        "detections": [],
+        "original_size": [
+            104,
+            104
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0753.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    80.0,
+                    -34.0,
+                    147.0,
+                    228.0
+                ],
+                "confidence": 0.6556746959686279,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0006.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    147.0,
+                    -19.0,
+                    409.0,
+                    766.0
+                ],
+                "confidence": 0.7314026951789856,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            754,
+            570
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0702.jpg",
+        "detections": [],
+        "original_size": [
+            960,
+            720
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0548.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            425
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0746.jpg",
+        "detections": [],
+        "original_size": [
+            228,
+            221
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0142.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0749.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    81.0,
+                    11.0,
+                    153.0,
+                    214.0
+                ],
+                "confidence": 0.8858781456947327,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            225,
+            224
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0292.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0876.jpg",
+        "detections": [],
+        "original_size": [
+            254,
+            199
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0728.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0782.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    101.0,
+                    -52.0,
+                    253.0,
+                    256.0
+                ],
+                "confidence": 0.5582779049873352,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            300,
+            300
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0237.jpg",
+        "detections": [],
+        "original_size": [
+            250,
+            201
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0169.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0337.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0594.jpg",
+        "detections": [],
+        "original_size": [
+            766,
+            600
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0262.jpg",
+        "detections": [],
+        "original_size": [
+            313,
+            161
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0036.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0599.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    221.0,
+                    -5.0,
+                    413.0,
+                    652.0
+                ],
+                "confidence": 0.7313671112060547,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0093.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0675.jpg",
+        "detections": [],
+        "original_size": [
+            713,
+            570
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0085.jpg",
+        "detections": [],
+        "original_size": [
+            207,
+            94
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0297.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    138.0,
+                    76.0,
+                    151.0,
+                    99.0
+                ],
+                "confidence": 0.6218612790107727,
+                "class": 2,
+                "class_name": "car"
+            }
+        ],
+        "original_size": [
+            225,
+            160
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0890.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    86.0,
+                    135.0,
+                    156.0,
+                    266.0
+                ],
+                "confidence": 0.9518648982048035,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    159.0,
+                    89.0,
+                    165.0,
+                    94.0
+                ],
+                "confidence": 0.6186018586158752,
+                "class": 2,
+                "class_name": "car"
+            },
+            {
+                "bbox": [
+                    165.0,
+                    89.0,
+                    173.0,
+                    94.0
+                ],
+                "confidence": 0.6115434169769287,
+                "class": 2,
+                "class_name": "car"
+            }
+        ],
+        "original_size": [
+            269,
+            188
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0281.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0288.jpg",
+        "detections": [],
+        "original_size": [
+            303,
+            167
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0145.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0513.jpg",
+        "detections": [],
+        "original_size": [
+            202,
+            96
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0144.jpg",
+        "detections": [],
+        "original_size": [
+            285,
+            177
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0102.jpg",
+        "detections": [],
+        "original_size": [
+            273,
+            184
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0731.jpg",
+        "detections": [],
+        "original_size": [
+            850,
+            850
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0846.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0326.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    54.0,
+                    3.0,
+                    152.0,
+                    236.0
+                ],
+                "confidence": 0.5643208622932434,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            238,
+            212
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0894.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    97.0,
+                    5.0,
+                    224.0,
+                    190.0
+                ],
+                "confidence": 0.7387452721595764,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            231,
+            218
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0290.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    74.0,
+                    6.0,
+                    150.0,
+                    217.0
+                ],
+                "confidence": 0.5122461915016174,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0563.jpg",
+        "detections": [],
+        "original_size": [
+            259,
+            260
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0676.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    115.0,
+                    16.0,
+                    473.0,
+                    871.0
+                ],
+                "confidence": 0.6819102168083191,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            900,
+            600
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0263.jpg",
+        "detections": [],
+        "original_size": [
+            266,
+            190
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0310.jpg",
+        "detections": [],
+        "original_size": [
+            297,
+            170
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0902.jpg",
+        "detections": [],
+        "original_size": [
+            367,
+            480
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0574.jpg",
+        "detections": [],
+        "original_size": [
+            300,
+            300
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0305.jpg",
+        "detections": [],
+        "original_size": [
+            263,
+            191
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0398.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    66.0,
+                    -5.0,
+                    140.0,
+                    258.0
+                ],
+                "confidence": 0.6685046553611755,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            251,
+            201
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0394.jpg",
+        "detections": [],
+        "original_size": [
+            280,
+            180
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0495.jpg",
+        "detections": [],
+        "original_size": [
+            216,
+            233
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0781.jpg",
+        "detections": [],
+        "original_size": [
+            1325,
+            1100
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0276.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    124.0,
+                    93.0,
+                    162.0,
+                    228.0
+                ],
+                "confidence": 0.532916784286499,
+                "class": 75,
+                "class_name": "vase"
+            }
+        ],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0087.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    63.0,
+                    -22.0,
+                    149.0,
+                    294.0
+                ],
+                "confidence": 0.6769458651542664,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0523.jpg",
+        "detections": [],
+        "original_size": [
+            350,
+            350
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0105.jpg",
+        "detections": [],
+        "original_size": [
+            266,
+            190
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0504.jpg",
+        "detections": [],
+        "original_size": [
+            713,
+            474
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0053.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    53.0,
+                    -29.0,
+                    144.0,
+                    275.0
+                ],
+                "confidence": 0.7425736784934998,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            285,
+            177
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0185.jpg",
+        "detections": [],
+        "original_size": [
+            254,
+            199
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0915.jpg",
+        "detections": [],
+        "original_size": [
+            432,
+            294
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0377.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0804.jpg",
+        "detections": [],
+        "original_size": [
+            720,
+            720
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0000.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            147
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0228.jpg",
+        "detections": [],
+        "original_size": [
+            600,
+            400
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0762.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0895.jpg",
+        "detections": [],
+        "original_size": [
+            220,
+            220
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0164.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0254.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    48.0,
+                    -6.0,
+                    142.0,
+                    262.0
+                ],
+                "confidence": 0.5112754702568054,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            258,
+            195
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0750.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    81.0,
+                    11.0,
+                    153.0,
+                    214.0
+                ],
+                "confidence": 0.8858781456947327,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            225,
+            224
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0498.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0575.jpg",
+        "detections": [],
+        "original_size": [
+            300,
+            300
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0598.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    221.0,
+                    -5.0,
+                    413.0,
+                    652.0
+                ],
+                "confidence": 0.7313671112060547,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0573.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            147
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0267.jpg",
+        "detections": [],
+        "original_size": [
+            255,
+            197
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0484.jpg",
+        "detections": [],
+        "original_size": [
+            268,
+            188
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0611.jpg",
+        "detections": [],
+        "original_size": [
+            1517,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0323.jpg",
+        "detections": [],
+        "original_size": [
+            285,
+            177
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0243.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0411.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    58.0,
+                    -4.0,
+                    137.0,
+                    223.0
+                ],
+                "confidence": 0.6282684803009033,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            250,
+            201
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0312.jpg",
+        "detections": [],
+        "original_size": [
+            288,
+            175
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0415.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    46.0,
+                    9.0,
+                    178.0,
+                    210.0
+                ],
+                "confidence": 0.6231562495231628,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0534.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    377.0,
+                    11.0,
+                    856.0,
+                    1179.0
+                ],
+                "confidence": 0.7515718340873718,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            1200,
+            1200
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0080.jpg",
+        "detections": [],
+        "original_size": [
+            885,
+            570
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0296.jpg",
+        "detections": [],
+        "original_size": [
+            259,
+            194
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0855.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    129.0,
+                    52.0,
+                    205.0,
+                    204.0
+                ],
+                "confidence": 0.6934277415275574,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0496.jpg",
+        "detections": [],
+        "original_size": [
+            246,
+            205
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0616.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    213.0,
+                    0.0,
+                    388.0,
+                    564.0
+                ],
+                "confidence": 0.9235466718673706,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            571,
+            570
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0078.jpg",
+        "detections": [],
+        "original_size": [
+            683,
+            570
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0759.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    62.0,
+                    17.0,
+                    134.0,
+                    229.0
+                ],
+                "confidence": 0.8519940376281738,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            243,
+            207
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0606.jpg",
+        "detections": [],
+        "original_size": [
+            649,
+            470
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0529.jpg",
+        "detections": [],
+        "original_size": [
+            350,
+            350
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0502.jpg",
+        "detections": [],
+        "original_size": [
+            263,
+            191
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0251.jpg",
+        "detections": [],
+        "original_size": [
+            274,
+            184
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0367.jpg",
+        "detections": [],
+        "original_size": [
+            290,
+            174
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0074.jpg",
+        "detections": [],
+        "original_size": [
+            845,
+            570
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0373.jpg",
+        "detections": [],
+        "original_size": [
+            261,
+            193
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0380.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    73.0,
+                    -9.0,
+                    153.0,
+                    233.0
+                ],
+                "confidence": 0.6214080452919006,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0785.jpg",
+        "detections": [],
+        "original_size": [
+            846,
+            570
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0766.jpg",
+        "detections": [],
+        "original_size": [
+            246,
+            205
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0301.jpg",
+        "detections": [],
+        "original_size": [
+            248,
+            203
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0236.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0428.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0757.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0401.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0347.jpg",
+        "detections": [],
+        "original_size": [
+            217,
+            232
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0396.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0805.jpg",
+        "detections": [],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0091.jpg",
+        "detections": [],
+        "original_size": [
+            240,
+            210
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0733.jpg",
+        "detections": [],
+        "original_size": [
+            602,
+            318
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0487.jpg",
+        "detections": [],
+        "original_size": [
+            265,
+            190
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0406.jpg",
+        "detections": [],
+        "original_size": [
+            255,
+            198
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0371.jpg",
+        "detections": [],
+        "original_size": [
+            251,
+            201
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0282.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            147
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0735.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    165.0,
+                    284.0,
+                    246.0,
+                    382.0
+                ],
+                "confidence": 0.7305304408073425,
+                "class": 26,
+                "class_name": "handbag"
+            },
+            {
+                "bbox": [
+                    101.0,
+                    30.0,
+                    241.0,
+                    488.0
+                ],
+                "confidence": 0.684782087802887,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            521,
+            328
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0500.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    53.0,
+                    3.0,
+                    135.0,
+                    270.0
+                ],
+                "confidence": 0.5403341054916382,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0330.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    161.0,
+                    184.0,
+                    168.0,
+                    198.0
+                ],
+                "confidence": 0.804229736328125,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    70.0,
+                    4.0,
+                    137.0,
+                    248.0
+                ],
+                "confidence": 0.7138420343399048,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            251,
+            201
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0613.jpg",
+        "detections": [],
+        "original_size": [
+            246,
+            205
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0393.jpg",
+        "detections": [],
+        "original_size": [
+            234,
+            215
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0538.jpg",
+        "detections": [],
+        "original_size": [
+            600,
+            429
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0577.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            127
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0788.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    122.0,
+                    -41.0,
+                    236.0,
+                    544.0
+                ],
+                "confidence": 0.9443393349647522,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            500,
+            355
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0461.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0464.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0064.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    241.0,
+                    -28.0,
+                    549.0,
+                    827.0
+                ],
+                "confidence": 0.7199075222015381,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0503.jpg",
+        "detections": [],
+        "original_size": [
+            655,
+            468
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0303.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    75.0,
+                    33.0,
+                    145.0,
+                    218.0
+                ],
+                "confidence": 0.720695972442627,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            220,
+            220
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0329.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0265.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    48.0,
+                    9.0,
+                    126.0,
+                    230.0
+                ],
+                "confidence": 0.8438374996185303,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0073.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    175.0,
+                    38.0,
+                    365.0,
+                    637.0
+                ],
+                "confidence": 0.8842792510986328,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            667,
+            570
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0334.jpg",
+        "detections": [],
+        "original_size": [
+            299,
+            168
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0695.jpg",
+        "detections": [],
+        "original_size": [
+            249,
+            203
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0867.jpg",
+        "detections": [],
+        "original_size": [
+            237,
+            212
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0491.jpg",
+        "detections": [],
+        "original_size": [
+            253,
+            199
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0327.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0767.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0318.jpg",
+        "detections": [],
+        "original_size": [
+            269,
+            188
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0403.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    48.0,
+                    173.0,
+                    80.0,
+                    261.0
+                ],
+                "confidence": 0.5509424805641174,
+                "class": 26,
+                "class_name": "handbag"
+            }
+        ],
+        "original_size": [
+            290,
+            174
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0649.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    349.0,
+                    309.0,
+                    418.0,
+                    534.0
+                ],
+                "confidence": 0.8326939344406128,
+                "class": 75,
+                "class_name": "vase"
+            },
+            {
+                "bbox": [
+                    120.0,
+                    -33.0,
+                    313.0,
+                    583.0
+                ],
+                "confidence": 0.8232899904251099,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    367.0,
+                    358.0,
+                    404.0,
+                    498.0
+                ],
+                "confidence": 0.820358157157898,
+                "class": 75,
+                "class_name": "vase"
+            }
+        ],
+        "original_size": [
+            640,
+            427
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0413.jpg",
+        "detections": [],
+        "original_size": [
+            226,
+            223
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0747.jpg",
+        "detections": [],
+        "original_size": [
+            309,
+            163
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0887.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    30.0,
+                    -10.0,
+                    120.0,
+                    228.0
+                ],
+                "confidence": 0.754233181476593,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            220,
+            220
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0244.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0420.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0278.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    54.0,
+                    12.0,
+                    132.0,
+                    256.0
+                ],
+                "confidence": 0.823896586894989,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            276,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0407.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0525.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    325.0,
+                    -94.0,
+                    735.0,
+                    991.0
+                ],
+                "confidence": 0.6688926815986633,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            1050,
+            1050
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0335.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0079.jpg",
+        "detections": [],
+        "original_size": [
+            570,
+            570
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0467.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0458.jpg",
+        "detections": [],
+        "original_size": [
+            276,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0423.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0462.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0673.jpg",
+        "detections": [],
+        "original_size": [
+            1324,
+            600
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0860.jpg",
+        "detections": [],
+        "original_size": [
+            253,
+            199
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0032.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    212.0,
+                    8.0,
+                    388.0,
+                    560.0
+                ],
+                "confidence": 0.9059904217720032,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            571,
+            570
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0308.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    146.0,
+                    127.0,
+                    180.0,
+                    239.0
+                ],
+                "confidence": 0.7751601338386536,
+                "class": 75,
+                "class_name": "vase"
+            }
+        ],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0022.jpg",
+        "detections": [],
+        "original_size": [
+            1399,
+            1011
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0839.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    187.0,
+                    -32.0,
+                    376.0,
+                    631.0
+                ],
+                "confidence": 0.9566888809204102,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    11.0,
+                    -15.0,
+                    193.0,
+                    612.0
+                ],
+                "confidence": 0.9046126008033752,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    391.0,
+                    -65.0,
+                    561.0,
+                    581.0
+                ],
+                "confidence": 0.6653378009796143,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            596,
+            570
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0211.jpg",
+        "detections": [],
+        "original_size": [
+            299,
+            168
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0056.jpg",
+        "detections": [],
+        "original_size": [
+            1143,
+            762
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0862.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0051.jpg",
+        "detections": [],
+        "original_size": [
+            387,
+            620
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0784.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    150.0,
+                    -35.0,
+                    447.0,
+                    811.0
+                ],
+                "confidence": 0.8459359407424927,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            900,
+            600
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0069.jpg",
+        "detections": [],
+        "original_size": [
+            713,
+            570
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0076.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    194.0,
+                    -87.0,
+                    463.0,
+                    940.0
+                ],
+                "confidence": 0.7567000985145569,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            857,
+            570
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0390.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0875.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0831.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0706.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    486.0,
+                    410.0,
+                    586.0,
+                    783.0
+                ],
+                "confidence": 0.9566428065299988,
+                "class": 75,
+                "class_name": "vase"
+            }
+        ],
+        "original_size": [
+            900,
+            600
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0008.jpg",
+        "detections": [],
+        "original_size": [
+            696,
+            504
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0275.jpg",
+        "detections": [],
+        "original_size": [
+            302,
+            167
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0808.jpg",
+        "detections": [],
+        "original_size": [
+            415,
+            415
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0492.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    36.0,
+                    -23.0,
+                    151.0,
+                    296.0
+                ],
+                "confidence": 0.6095571517944336,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0459.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0357.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0726.jpg",
+        "detections": [],
+        "original_size": [
+            640,
+            640
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0429.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0701.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    175.0,
+                    43.0,
+                    225.0,
+                    82.0
+                ],
+                "confidence": 0.5382615923881531,
+                "class": 2,
+                "class_name": "car"
+            }
+        ],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0903.jpg",
+        "detections": [],
+        "original_size": [
+            800,
+            800
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0892.jpg",
+        "detections": [
+            {
+                "bbox": [
+                    0.0,
+                    -8.0,
+                    54.0,
+                    203.0
+                ],
+                "confidence": 0.6512934565544128,
+                "class": 0,
+                "class_name": "person"
+            },
+            {
+                "bbox": [
+                    45.0,
+                    -2.0,
+                    115.0,
+                    165.0
+                ],
+                "confidence": 0.6310849785804749,
+                "class": 0,
+                "class_name": "person"
+            }
+        ],
+        "original_size": [
+            223,
+            226
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0490.jpg",
+        "detections": [],
+        "original_size": [
+            265,
+            190
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0054.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0331.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0416.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0257.jpg",
+        "detections": [],
+        "original_size": [
+            299,
+            168
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0528.jpg",
+        "detections": [],
+        "original_size": [
+            1050,
+            1050
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0489.jpg",
+        "detections": [],
+        "original_size": [
+            254,
+            198
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0258.jpg",
+        "detections": [],
+        "original_size": [
+            283,
+            178
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0075.jpg",
+        "detections": [],
+        "original_size": [
+            713,
+            570
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0551.jpg",
+        "detections": [],
+        "original_size": [
+            450,
+            400
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0238.jpg",
+        "detections": [],
+        "original_size": [
+            275,
+            183
+        ]
+    },
+    {
+        "image_path": "data/raw/Men/dress_0886.jpg",
+        "detections": [],
+        "original_size": [
+            225,
+            225
+        ]
+    }
+]

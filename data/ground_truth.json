@@ -1,0 +1,28 @@
+{
+    "image1.jpg": {
+        "detections": [
+            {
+                "class_name": "person",
+                "bbox": [100, 200, 300, 400]
+            },
+            {
+                "class_name": "car",
+                "bbox": [400, 300, 600, 500]
+            }
+        ],
+        "annotation": "Une personne debout à gauche de l'image et une voiture rouge garée à droite. La scène se déroule dans une rue urbaine."
+    },
+    "image2.jpg": {
+        "detections": [
+            {
+                "class_name": "dog",
+                "bbox": [150, 250, 350, 450]
+            },
+            {
+                "class_name": "cat",
+                "bbox": [450, 350, 550, 450]
+            }
+        ],
+        "annotation": "Un chien brun assis à gauche et un chat noir à droite. Les deux animaux semblent se regarder dans un jardin."
+    }
+} 
