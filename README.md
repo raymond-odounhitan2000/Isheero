@@ -3,6 +3,8 @@
 ## 📝 Description du Projet
 
 Ce projet est un système d'annotation automatique d'images qui combine l'intelligence artificielle et la vision par ordinateur pour analyser et décrire automatiquement le contenu des images. Le système est entièrement automatisé et peut être déployé comme un service, permettant l'annotation en temps réel de n'importe quelle image soumise.
+![image d'une femme africaine](https://github.com/user-attachments/assets/e6cc4185-cc7c-4e5e-bcfb-1dfbfe0079ff)
+
 
 ## 🎯 Objectifs
 
@@ -36,7 +38,7 @@ Ce projet est un système d'annotation automatique d'images qui combine l'intell
 import requests
 
 def annotate_image(image_path):
-    url = "https://votre-api.com/annotate"
+    url = "https://127.0.0:8000/annotate"
     files = {'image': open(image_path, 'rb')}
     response = requests.post(url, files=files)
     return response.json()
@@ -44,8 +46,8 @@ def annotate_image(image_path):
 
 ### Points d'Accès
 - `POST /annotate` : Annotation d'une image
-- `GET /status/{job_id}` : Statut du traitement
-- `GET /results/{job_id}` : Récupération des résultats
+- `GET /health/{job_id}` : Pour verifier l'tat de l'API
+- `GET /images/{job_id}` : Pour afficheer quelques images à l'écran de l'interface web.
 
 ### Déploiement
 1. **Configuration du Serveur**
@@ -54,7 +56,7 @@ def annotate_image(image_path):
    pip install -r requirements.txt
    
    # Démarrage du serveur
-   python main/server.py
+   python main/server.py  {à créer }
    ```
 
 2. **Configuration du Load Balancer**
@@ -109,14 +111,15 @@ def annotate_image(image_path):
 ```
 .
 ├── api/
-│   ├── main.py           # Serveur FastAPI
-│   └── endpoints.py      # Points d'accès API
+│   ├── main.py           # Serveur FastAPI et point d'accès aux endpoints
+│    
 ├── data/
 │   ├── raw/              # Images originales
 │   └── processed/        # Images traitées
 ├── utils/
 │   ├── image_annotator.py    # Gestion des annotations
 │   └── display_annotations.py # Affichage des résultats
+|   └── train_yolo.py  # Préparation des datasets, traitement et entrainement, evaluation du model yolo
 ├── main/
 │   ├── process_images.py     # Script principal
 │   └── server.py             # Serveur de production
@@ -131,8 +134,8 @@ def annotate_image(image_path):
    ```bash
    git clone [URL_DU_PROJET]
    cd [NOM_DU_PROJET]
-   python -m venv .venv
-   source .venv/bin/activate
+   python -m venv academie
+   source academie/bin/activate
    pip install -r requirements.txt
    ```
 
@@ -185,7 +188,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
   pip install -r requirements.txt
   
   # Lancement en mode développement
-  python main/server.py --debug
+  python main/process_images.py
   ```
 - **Accès** : `http://localhost:8000`
 - **Fonctionnalités** :
@@ -288,6 +291,12 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
    - DDoS Protection
    - Audit logs
    - Chiffrement des données
+  
+4. **Lancer API en développement**
+   - Activer l'environnement virtuel
+   - Utiliser uvicorn pour le test de l'api en développement
+   - commande : uvicorn api.main:app --reload
+     
 
 ### Conformité
 - RGPD pour les données personnelles

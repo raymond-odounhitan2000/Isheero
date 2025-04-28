@@ -170,6 +170,32 @@ async def health_check():
         "version": "1.0.0"
     }
 
+@app.get("/images")
+async def get_sample_images():
+    """
+    Endpoint pour récupérer quelques images africaines en base64 pour l'affichage dans une interface web.
+    """
+    images_dir = Path("../data/raw/women")
+    image_files = list(images_dir.glob("*.[jp][pn]g"))[:7]  # JPG ou PNG, max 6 images
+    images_data = []
+
+    for image_file in image_files:
+        with open(image_file, "rb") as img:
+            encoded_str = base64.b64encode(img.read()).decode('utf-8')
+            images_data.append({
+                "filename": image_file.name,
+                "base64": f"data:image/jpeg;base64,{encoded_str}"
+            })
+
+    return JSONResponse(content={"images": images_data})
+
+
+
+    
+    
+
+
+
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000) 
