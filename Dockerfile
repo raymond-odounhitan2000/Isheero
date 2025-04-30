@@ -16,5 +16,5 @@ COPY . .
 # Exposer le port
 EXPOSE 8080
 
-# Commande pour lancer l'API
-CMD ["uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "8080"] 
+# Commande pour lancer Gunicorn avec UvicornWorker
+CMD ["gunicorn", "-w", "4", "-k", "uvicorn.workers.UvicornWorker", "wsgi:app", "--host", "0.0.0.0", "--port", "8080"]
