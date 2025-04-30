@@ -19,8 +19,8 @@ RUN venv/bin/pip install --no-cache-dir -r requirements.txt
 # Copier le code source
 COPY . .
 
-# Exposer le port
+# Exposer le port 8080
 EXPOSE 8080
 
-# Commande pour lancer Gunicorn avec UvicornWorker
-CMD ["gunicorn", "-w", "4", "-k", "uvicorn.workers.UvicornWorker", "wsgi:app", "--host", "0.0.0.0", "--port", "8080"]
+# Commande pour lancer Gunicorn avec UvicornWorker via wsgi.py
+CMD ["venv/bin/gunicorn", "-w", "4", "-k", "uvicorn.workers.UvicornWorker", "wsgi:app", "--host", "0.0.0.0", "--port", "8080"]
