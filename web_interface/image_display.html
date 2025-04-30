@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Annotée</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+
+<h1>Image Annotée</h1>
+
+<!-- Affichage de l'image annotée -->
+{% if image_url %}
+    <h2>Annotated Images:</h2>
+    <img src="{{ image_url }}" alt="Image Annotée" width="600">
+{% else %}
+    <p>Aucune image à afficher.</p>
+{% endif %}
+
+<!-- Bouton pour retourner à la page d'accueil -->
+<a href="/">Accueil</a>
+
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Annotation Automatique d'Images Africaines</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <h1>Annotation des Images Africaines</h1>
+
+    <h2>Charger votre image</h2>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <input type="file" name="file" accept="image/*" required>
+        <button type="submit">Envoyer</button>
+    </form>
+
+    <h2>Quelques Images Africaines</h2>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+        {% for img in images %}
+            <div style="margin: 10px;">
+                <img src="{{ img.base64 }}" alt="{{ img.filename }}" style="width: 200px; height: auto; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
+            </div>
+        {% endfor %}
+    </div>
+    <script src="/static/script.js" defer></script>
+</body>
+</html>
