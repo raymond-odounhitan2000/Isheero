@@ -7,8 +7,14 @@ WORKDIR /app
 # Copier les fichiers de dépendances
 COPY requirements.txt .
 
-# Installer les dépendances
-RUN pip install --no-cache-dir -r requirements.txt
+# Installer virtualenv dans le container
+RUN pip install --no-cache-dir virtualenv
+
+# Créer l'environnement virtuel
+RUN virtualenv venv
+
+# Installer les dépendances dans l'environnement virtuel
+RUN venv/bin/pip install --no-cache-dir -r requirements.txt
 
 # Copier le code source
 COPY . .
